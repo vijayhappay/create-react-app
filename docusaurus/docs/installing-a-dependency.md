@@ -9,7 +9,7 @@ The generated project includes React and ReactDOM as dependencies. It also inclu
 npm install --save react-router-dom
 ```
 
-Alternatively you may use `yarn`:
+Alternatively you may use `india`:
 
 ```sh
 yarn add react-router-dom
